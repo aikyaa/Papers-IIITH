@@ -1,5 +1,5 @@
 # Papers-IIITH
-Resources for ECX (contains UG2K23 papers)
+Question Papers for ECX (UG2K23)
 
 Links to other resources:
 [Computer Programming M23](https://cpro-iiit.github.io/)
